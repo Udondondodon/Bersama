@@ -1,0 +1,2 @@
+# Bersama
+dan saling menjaga
