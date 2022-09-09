@@ -1,1 +1,0 @@
-print("Pokemon Go teroooooosssss")
